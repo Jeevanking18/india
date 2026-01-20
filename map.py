@@ -6,6 +6,10 @@
 ##print(i, end=" ") : this will print the individual print state next to it
 ##print(i, sep=",") : this is called saperater will seperates with what we provide 
 
+## map(): map is a built in function that applies a given function to an each item of an iterable and returns map object with the result
+
+##map(function,iterable)
+
 input=list(map(int,input().split())) ## this will store the input in the list formate 
 
 simpleList=[1,2,3,4,5]
