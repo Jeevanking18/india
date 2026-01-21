@@ -1,5 +1,4 @@
-##filter it is a built in function, it works on the functions andd iterables to filter the iterables in the fnctions and take the true value and return the result
-
+##filter it is a built in function, that is used to select elements from iterable for which the given function returns true
 ##syntax: filter(function,iterable): iterable may be list, tuple ,string,set, dictionary,range,etc.
 
 ##it only filter the true returned values 
