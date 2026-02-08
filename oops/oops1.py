@@ -21,4 +21,9 @@ obj2.display()
 obj1.diposit(40000)
 bal=obj1.CheckBalance()
 print(f"Jeevan you have balance in your account is {bal}")
+
+
+##when ever we call the class by creating the object it automatically calls the constructer so the 
+##constructer in that we give the common things in that and passing the arguments when ever we create the object
+
        
